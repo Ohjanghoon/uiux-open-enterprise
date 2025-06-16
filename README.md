@@ -72,9 +72,9 @@ npm run dev
 ```arduino
 uiux-open-enterprise/
 ├── public/
-│   └── logo.svg
+│   └── assets/
+│       └── logo.svg
 ├── src/
-│   ├── assets/
 │   ├── components/
 │   │   ├── common/
 │   │   └── featureWidget/
