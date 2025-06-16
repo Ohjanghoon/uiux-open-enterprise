@@ -3,21 +3,21 @@ import type { Info as WorkCardInfo } from "../types/types";
 const workCardList: WorkCardInfo[] = [
   {
     id: "work_card_1",
-    iconUrl: "/src/assets/icon_work_1.svg",
+    iconUrl: "/assets/icon_work_1.svg",
     title: "Modern workforce",
     description:
       "Multistakeholder governance aligns employees with the organization’s wider community.",
   },
   {
     id: "work_card_2",
-    iconUrl: "/src/assets/icon_work_2.svg",
+    iconUrl: "/assets/icon_work_2.svg",
     title: "Meritocratic by design",
     description:
       "Tokenized ownership aligns deeply committed individuals with the organization’s success.",
   },
   {
     id: "work_card_3",
-    iconUrl: "/src/assets/icon_work_3.svg",
+    iconUrl: "/assets/icon_work_3.svg",
     title: "Engineered for resilience",
     description:
       "Open Enterprise supports best practices in sociocratic management.",

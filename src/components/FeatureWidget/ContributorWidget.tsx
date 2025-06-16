@@ -23,7 +23,7 @@ function ContributorWidget() {
             >
               <div className="flex items-center justify-center gap-x-4">
                 <img
-                  src={`/src/assets/members/${item.filename}`}
+                  src={`/assets/members/${item.filename}`}
                   alt="member image"
                   width={40}
                   height={40}
@@ -36,7 +36,7 @@ function ContributorWidget() {
               </div>
               <div className="flex items-center gap-x-2">
                 <img
-                  src="/src/assets/icon_star.svg"
+                  src="/assets/icon_star.svg"
                   alt="star icon"
                   width={24}
                   height={24}
@@ -56,7 +56,7 @@ function ViewProfileMember({ item }: { item: MemberInfo }) {
   return (
     <div className="ring-green flex w-[240px] flex-col items-center gap-y-4 rounded-2xl p-6 ring-4">
       <img
-        src={`/src/assets/members/${item.filename}`}
+        src={`/assets/members/${item.filename}`}
         width={72}
         height={72}
         alt=""
@@ -68,7 +68,7 @@ function ViewProfileMember({ item }: { item: MemberInfo }) {
       <div className="flex w-full items-center justify-between">
         <span>{item.commit} commits</span>
         <div className="flex items-center gap-x-2">
-          <img src="/src/assets/icon_star.svg" alt="" width={24} height={24} />
+          <img src="/assets/icon_star.svg" alt="" width={24} height={24} />
           <span>{item.rate}</span>
         </div>
       </div>

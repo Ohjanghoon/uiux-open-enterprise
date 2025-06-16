@@ -23,7 +23,7 @@ function MembersWidget() {
           return (
             <li key={item.id} className="flex items-center gap-x-4">
               <img
-                src={`/src/assets/members/${item.filename}`}
+                src={`/assets/members/${item.filename}`}
                 alt="member image"
               />
               <div className="space-y-1">

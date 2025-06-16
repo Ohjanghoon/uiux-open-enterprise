@@ -6,7 +6,7 @@ function ProposalWidget() {
     >
       <div id="proposal-member" className="space-y-6">
         <div id="member-info" className="flex items-center gap-x-4">
-          <img src="/src/assets/members/member_4.svg" alt="" />
+          <img src="/assets/members/member_4.svg" alt="" />
           <div className="space-y-2 font-semibold">
             <h4 className="text-2xl">Jassir Jonis</h4>
             <p className="text-gray">Pre-seed angel investor</p>

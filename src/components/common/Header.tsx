@@ -33,7 +33,7 @@ function Header({ isScrolled }: { isScrolled: boolean }) {
       <div id="header-logo-wrapper" className="flex items-center gap-2">
         <img
           id="logo-image"
-          src="/src/assets/logo.svg"
+          src="/assets/logo.svg"
           alt="Logo image"
           className="h-10"
         />

@@ -45,7 +45,7 @@ function App() {
         className={`absolute top-0 left-0 min-h-[calc(100vh-2.5rem-48px)] w-full ${isScrolled ? "hidden" : "animate-pulse"}`}
       >
         <div className="absolute bottom-0 left-1/2 flex -translate-x-1/2 flex-col items-center gap-y-2">
-          <img src="/src/assets/icon_mouse.svg" alt="scroll mouse icon" />
+          <img src="/assets/icon_mouse.svg" alt="scroll mouse icon" />
           <span>Scroll Down</span>
         </div>
       </aside>

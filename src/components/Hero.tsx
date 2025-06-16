@@ -23,12 +23,12 @@ function Hero() {
         className="absolute top-0 right-0 -z-1 h-screen w-1/2"
       >
         <img
-          src="/src/assets/vector.svg"
+          src="/assets/vector.svg"
           alt="vector image"
           className="fill-light-gold absolute top-[142px] right-[12px]"
         />
         <img
-          src="/src/assets/hero_illustration.png"
+          src="/assets/hero_illustration.png"
           alt="hero illustration"
           id="hero-illustration"
           className="absolute top-[165px] -right-[146px] h-auto w-auto max-w-none"
