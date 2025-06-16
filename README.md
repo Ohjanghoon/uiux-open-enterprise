@@ -23,9 +23,11 @@
 
 <br/>
 
-## 📸 결과 미리보기
-
-- 데스크톱
+## 📸 결과
+- [데모]
+  [데모 링크 바로가기](https://uiux-open-enterprise.vercel.app/)
+  
+- [스크린샷]데스크톱
 ![image](https://github.com/user-attachments/assets/8310760d-3e3d-436c-82dd-bc92b13ce1fb)
 
 <br/>
